@@ -26,6 +26,7 @@ Notebooks/ModelIndo
 *.egg-info/
 .installed.cfg
 *.egg
+*/glove.twitter.27B.25d_Word2Vect.txt
 MANIFEST
 
 # PyInstaller
